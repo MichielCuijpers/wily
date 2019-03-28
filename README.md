@@ -11,6 +11,7 @@ A command-line application for tracking, reporting on complexity of Python tests
 wily [a]:
 quick to think of things, having a very good understanding of situations and possibilities, 
 and often willing to use tricks to achieve an aim.
+test
 ```
 
 Wily uses git to go through each revision (commit) in a branch and run complexity and code-analysis metrics over the code. You can use this to limit your code or report on trends for complexity, length etc.
